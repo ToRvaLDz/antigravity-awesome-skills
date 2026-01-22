@@ -1,6 +1,6 @@
-# 🌌 Antigravity Awesome Skills: 235+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
+# 🌌 Antigravity Awesome Skills: 238+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
 
-> **The Ultimate Collection of 235+ Universal Agentic Skills for AI Coding Assistants — Claude Code, Gemini CLI, Codex CLI, Antigravity IDE, GitHub Copilot, Cursor, OpenCode**
+> **The Ultimate Collection of 238+ Universal Agentic Skills for AI Coding Assistants — Claude Code, Gemini CLI, Codex CLI, Antigravity IDE, GitHub Copilot, Cursor, OpenCode**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-purple)](https://claude.ai)
@@ -109,7 +109,7 @@ The repository is organized into several key areas of expertise:
 
 ---
 
-## Full Skill Registry (235/235)
+## Full Skill Registry (238/238)
 
 > [!NOTE] > **Document Skills**: We provide both **community** and **official Anthropic** versions for DOCX, PDF, PPTX, and XLSX. Locally, the official versions are used by default (via symlinks). In the repository, both versions are available for flexibility.
 
@@ -163,6 +163,7 @@ The repository is organized into several key areas of expertise:
 | **analytics-tracking** | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions "set up tracking," "GA4," "Google Analytics," "conversion tracking," "event tracking," "UTM parameters," "tag manager," "GTM," "analytics implementation," or "tracking plan." For A/B test measurement, see ab-test-setup. | `skills/analytics-tracking` |
 | **api-documentation-generator** | "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices" | `skills/api-documentation-generator` |
 | **api-patterns** | API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination. | `skills/api-patterns` |
+| **api-security-best-practices** | "Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities" | `skills/api-security-best-practices` |
 | **app-builder** | Main application building orchestrator. Creates full-stack applications from natural language requests. Determines project type, selects tech stack, coordinates agents. | `skills/app-builder` |
 | **app-store-optimization** | Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store | `skills/app-store-optimization` |
 | **architecture** | Architectural decision-making framework. Requirements analysis, trade-off evaluation, ADR documentation. Use when making architecture decisions or analyzing system design. | `skills/architecture` |
@@ -189,7 +190,7 @@ The repository is organized into several key areas of expertise:
 | **clean-code** | Pragmatic coding standards - concise, direct, no over-engineering, no unnecessary comments | `skills/clean-code` |
 | **clerk-auth** | "Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding authentication, clerk auth, user authentication, sign in, sign up." | `skills/clerk-auth` |
 | **clickhouse-io** | ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads. | `skills/cc-skill-clickhouse-io` |
-| **code-review-checklist** | Code review guidelines covering code quality, security, and best practices. | `skills/code-review-checklist` |
+| **code-review-checklist** | "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability" | `skills/code-review-checklist` |
 | **coding-standards** | Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development. | `skills/cc-skill-coding-standards` |
 | **competitor-alternatives** | "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' or 'competitive landing pages.' Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. Emphasizes deep research, modular content architecture, and varied section types beyond feature tables." | `skills/competitor-alternatives` |
 | **computer-use-agents** | "Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. Covers Anthropic's Computer Use, OpenAI's Operator/CUA, and open-source alternatives. Critical focus on sandboxing, security, and handling the unique challenges of vision-based control. Use when: computer use, desktop automation agent, screen control AI, vision-based agent, GUI automation." | `skills/computer-use-agents` |
@@ -212,6 +213,7 @@ The repository is organized into several key areas of expertise:
 | **docx** | "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks" | `skills/docx-official` |
 | **email-sequence** | When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions "email sequence," "drip campaign," "nurture sequence," "onboarding emails," "welcome sequence," "re-engagement emails," "email automation," or "lifecycle emails." For in-app onboarding, see onboarding-cro. | `skills/email-sequence` |
 | **email-systems** | "Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, landing in spam folders.  This skill covers transactional email that works, marketing automation that converts, deliverability that reaches inboxes, and the infrastructure decisions that scale. Use when: keywords, file_patterns, code_patterns." | `skills/email-systems` |
+| **environment-setup-guide** | "Guide developers through setting up development environments with proper tools, dependencies, and configurations" | `skills/environment-setup-guide` |
 | **executing-plans** | Use when you have a written implementation plan to execute in a separate session with review checkpoints | `skills/executing-plans` |
 | **file-organizer** | Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures. Use when user wants to clean up directories, organize downloads, remove duplicates, or restructure projects. | `skills/file-organizer` |
 | **file-uploads** | "Expert at handling file uploads and cloud storage. Covers S3, Cloudflare R2, presigned URLs, multipart uploads, and image optimization. Knows how to handle large files without blocking. Use when: file upload, S3, R2, presigned URL, multipart." | `skills/file-uploads` |
@@ -344,6 +346,7 @@ The repository is organized into several key areas of expertise:
 | **web-artifacts-builder** | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts. | `skills/web-artifacts-builder` |
 | **web-design-guidelines** | Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices". | `skills/web-design-guidelines` |
 | **web-games** | Web browser game development principles. Framework selection, WebGPU, optimization, PWA. | `skills/game-development/web-games` |
+| **web-performance-optimization** | "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance" | `skills/web-performance-optimization` |
 | **webapp-testing** | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs. | `skills/webapp-testing` |
 | **workflow-automation** | "Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost money and angry customers. With it, workflows resume exactly where they left off.  This skill covers the platforms (n8n, Temporal, Inngest) and patterns (sequential, parallel, orchestrator-worker) that turn brittle scripts into production-grade automation.  Key insight: The platforms make different tradeoffs. n8n optimizes for accessibility" | `skills/workflow-automation` |
 | **writing-plans** | Use when you have a spec or requirements for a multi-step task, before touching code | `skills/writing-plans` |

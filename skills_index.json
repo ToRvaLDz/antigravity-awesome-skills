@@ -288,6 +288,12 @@
     "description": "API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination."
   },
   {
+    "id": "api-security-best-practices",
+    "path": "skills/api-security-best-practices",
+    "name": "api-security-best-practices",
+    "description": "\"Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities\""
+  },
+  {
     "id": "app-builder",
     "path": "skills/app-builder",
     "name": "app-builder",
@@ -447,7 +453,7 @@
     "id": "code-review-checklist",
     "path": "skills/code-review-checklist",
     "name": "code-review-checklist",
-    "description": "Code review guidelines covering code quality, security, and best practices."
+    "description": "\"Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability\""
   },
   {
     "id": "cc-skill-coding-standards",
@@ -580,6 +586,12 @@
     "path": "skills/email-systems",
     "name": "email-systems",
     "description": "\"Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, landing in spam folders.  This skill covers transactional email that works, marketing automation that converts, deliverability that reaches inboxes, and the infrastructure decisions that scale. Use when: keywords, file_patterns, code_patterns.\""
+  },
+  {
+    "id": "environment-setup-guide",
+    "path": "skills/environment-setup-guide",
+    "name": "environment-setup-guide",
+    "description": "\"Guide developers through setting up development environments with proper tools, dependencies, and configurations\""
   },
   {
     "id": "executing-plans",
@@ -1372,6 +1384,12 @@
     "path": "skills/game-development/web-games",
     "name": "web-games",
     "description": "Web browser game development principles. Framework selection, WebGPU, optimization, PWA."
+  },
+  {
+    "id": "web-performance-optimization",
+    "path": "skills/web-performance-optimization",
+    "name": "web-performance-optimization",
+    "description": "\"Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance\""
   },
   {
     "id": "webapp-testing",
