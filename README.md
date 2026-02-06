@@ -211,7 +211,28 @@ npx antigravity-awesome-skills
 
 ## Curated Collections
 
-[Check out our Starter Packs in docs/BUNDLES.md](docs/BUNDLES.md) to find the perfect toolkit for your role.
+**Bundles** are curated groups of skills for a specific role or goal (for example: `Web Wizard`, `Security Engineer`, `OSS Maintainer`).
+
+They help you avoid picking from 700+ skills one by one.
+
+What bundles are:
+- Recommended starting sets for common workflows.
+- A shortcut for onboarding and faster execution.
+
+What bundles are not:
+- Not a separate install.
+- Not a locked preset.
+
+How to use bundles:
+1. Install the repository once.
+2. Pick one bundle in [docs/BUNDLES.md](docs/BUNDLES.md).
+3. Start with 3-5 skills from that bundle in your prompt.
+4. Add more only when needed.
+
+Examples:
+- Building a SaaS MVP: `Essentials` + `Full-Stack Developer` + `QA & Testing`.
+- Hardening production: `Security Developer` + `DevOps & Cloud` + `Observability & Monitoring`.
+- Shipping OSS changes: `Essentials` + `OSS Maintainer`.
 
 ## Features & Categories
 
